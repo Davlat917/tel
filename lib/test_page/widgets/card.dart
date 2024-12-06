@@ -17,7 +17,7 @@ class Cards extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.all(8.0),
+      padding: const EdgeInsets.all(6),
       child: SizedBox(
         width: double.infinity,
         child: DecoratedBox(

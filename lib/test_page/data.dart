@@ -28,6 +28,6 @@ List<PremiumInfo> getPremiumInfoData = [
   PremiumInfo(
     'assets/icons/search.svg',
     'Telegram Business',
-    'Upgrade your account with business features such as location, opening hours and quick replies.',
+    'Upgrade your account with business features such as location, opening hours.',
   ),
 ];
